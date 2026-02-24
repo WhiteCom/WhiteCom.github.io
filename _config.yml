@@ -1,3 +1,28 @@
-title: My Dev Blog
-description: Game Developer Blog
-theme: Minimal Mistakes
+title: "ADH - Game Client Developer"
+description: "DirectX / Engine / Graphics / Debugging"
+url: ""
+baseurl: ""
+
+theme: minimal-mistakes-jekyll
+minimal_mistakes_skin: "dark"
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
+
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-paginate
+  - jekyll-sitemap
+
+paginate: 5
+paginate_path: /page:num/
+
+author:
+  name: "ADH"
+  bio: "Game Client Developer"
+  location: "South Korea"

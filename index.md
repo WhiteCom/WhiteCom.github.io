@@ -1,12 +1,11 @@
 ---
 layout: home
-title: ADH - Game Client Developer
+author_profile: true
 ---
 
 # 🎮 Game Client Developer Portfolio
 
-안녕하세요.  
-DirectX 기반 클라이언트 개발자 안다흡(AN DAHEUP) 입니다.
+DirectX 기반 렌더링 / 엔진 구조 / 디버깅 중심 개발자
 
 ---
 
@@ -14,14 +13,22 @@ DirectX 기반 클라이언트 개발자 안다흡(AN DAHEUP) 입니다.
 
 - C++
 - DirectX 9 / 11
-- Shader (HLSL)
-- Win32 API
-- Unreal Engine 5 (학습 중)
+- HLSL
+- Win32
+- Unreal Engine (학습 중)
 
 ---
 
-## 📌 주요 프로젝트
+## 🚀 Featured Projects
 
-- [DX11 미니 엔진](/projects/dx11-engine)
+- [DX11 Mini Engine](/projects/dx11-engine/)
+- [2D AutoChess Prototype](/projects/autochess/)
+- [VS6 Dump Debugging 경험 정리](/debugging/vs6-dump/)
 
----
+{% assign projects = site.projects %}
+{% for project in projects %}
+  <div style="margin-bottom:40px;">
+    <h3><a href="{{ project.url }}">{{ project.title }}</a></h3>
+    <p>{{ project.excerpt }}</p>
+  </div>
+{% endfor %}
