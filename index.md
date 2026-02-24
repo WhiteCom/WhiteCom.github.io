@@ -3,8 +3,6 @@ layout: home
 author_profile: true
 ---
 
-# 🎮 Game Client Developer Portfolio
-
 DirectX 기반 렌더링 / 엔진 구조 / 디버깅 중심 개발자
 
 ---
