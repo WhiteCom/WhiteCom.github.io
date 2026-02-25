@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Billboard 구현 정리"
-date: 2026-02-25 00:00:00 +0900
+date: 2026-02-25
 categories: [Graphics]
 tags: [DX11, Shader, Billboard]
 toc: true
