@@ -2,7 +2,7 @@
 layout: single
 title: "Billboard 구현 정리"
 date: 2026-02-25
-categories: Graphics
+categories: [Graphics]
 tags: [DX11, Shader, Billboard]
 ---
 
