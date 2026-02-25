@@ -1,7 +1,7 @@
 ---
 title: "DX11 Forward Rendering 정리"
 date: 2026-02-26
-categories: [graphics]
+categories: Graphics
 tags: [dx11, rendering]
 toc: true
 toc_sticky: true
