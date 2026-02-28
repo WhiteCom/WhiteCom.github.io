@@ -7,3 +7,24 @@ main:
     url: /about/
   - title: "Tags"
     url: /tags/
+
+sidebar-nav:
+  - title: "Categories"
+    children:
+      - title: "Graphics"
+        url: /Categories/#graphics
+      - title: "Computer-Language"
+        children:
+          - title: "C++"
+            url: /Categories/#C
+      - title: "CodingTest"
+        children:
+          - title: "HackerRank"
+            url: /Categories/#HackerRank
+          - title: "BaekJoon"
+            url: /Categories/#BaekJoon
+          - title: "Programmers"
+            url: /Categories/#Programmers
+      
+
+  
