@@ -14,15 +14,11 @@ sidebar-nav:
   - title: "Categories"
     children:
       - title: "Graphics"
-        url: /categories/#graphics
+        url: /categories/graphics/
       - title: "Computer-Language"
-        url: /categories/#computer-language
+        url: /categories/computer-language/
       - title: "CodingTest"
-        url: /categories/#codingtest
+        url: /categories/codingtest/
 
   - title: "Tags"
-    children:
-      - title: "DX11"
-        url: /tags/#dx11
-      - title: "HackerRank"
-        url: /tags/#hackerrank
+    url: /tags/
