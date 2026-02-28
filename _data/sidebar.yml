@@ -1,3 +1,11 @@
 sidebar-nav:
   - title: "Categories"
-    url: /Categories/
+    children:
+      - title: "Graphics"
+        url: /Categories/#Graphics
+      - title: "Computer-Language"
+        url: /Categories/#Computer-Language
+      - title: "C++"
+        url: /Categories/#Categories
+      - title: "CodingTest"
+        url: /Categories/#CodingTest

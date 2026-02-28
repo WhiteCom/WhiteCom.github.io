@@ -10,21 +10,22 @@ main:
 
 sidebar-nav:
   - title: "Categories"
+    url: /Categories/
     children:
       - title: "Graphics"
-        url: /Categories/#graphics
+        url: /Categories/
       - title: "Computer-Language"
         children:
           - title: "C++"
-            url: /Categories/#C
+            url: /Categories/
       - title: "CodingTest"
         children:
           - title: "HackerRank"
-            url: /Categories/#HackerRank
+            url: /Categories/
           - title: "BaekJoon"
-            url: /Categories/#BaekJoon
+            url: /Categories/
           - title: "Programmers"
-            url: /Categories/#Programmers
+            url: /Categories/
       
 
   
