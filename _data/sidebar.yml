@@ -1,4 +1,4 @@
-sidebar-category:
+sidebar-nav:
   - title: "Categories"
     children:
       - title: "Graphics"

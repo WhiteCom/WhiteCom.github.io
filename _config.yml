@@ -39,4 +39,4 @@ defaults:
       type: posts
     values:
       sidebar:
-        nav: "sidebar-category"
+        nav: "sidebar-nav"

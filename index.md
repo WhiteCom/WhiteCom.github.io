@@ -1,6 +1,8 @@
 ---
 layout: home
 author_profile: true
+sidebar:
+  nav: "sidebar-nav"
 ---
 
 DirectX 기반 렌더링 / 엔진 구조 / 디버깅 중심 개발자

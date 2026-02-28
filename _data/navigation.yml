@@ -3,8 +3,6 @@ main:
     url: /
   - title: "Projects"
     url: /projects/
-  - title: "Categories"
-    url: /categories/
   - title: "About"
     url: /about/
   - title: "Tags"
