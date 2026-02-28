@@ -19,6 +19,8 @@ sidebar-nav:
         url: /categories/computer-language/
       - title: "CodingTest"
         url: /categories/codingtest/
+      - title: "Tech-Blog"
+        url: /categories/tech-info/
 
   - title: "Tags"
     url: /tags/
