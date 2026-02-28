@@ -3,7 +3,7 @@ layout: single
 title: "DX11 Forward Rendering 정리"
 date: 2026-02-26
 categories: [Graphics]
-tags: [DX11, Shader, Billboard]
+tags: [Rendering, Shader]
 toc: true
 toc_sticky: true
 ---
