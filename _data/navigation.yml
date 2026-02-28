@@ -6,25 +6,23 @@ main:
   - title: "About"
     url: /about/
   - title: "Categories"
-    url: /Categories/
+    url: /categories/
   - title: "Tags"
     url: /tags/
 
 sidebar-nav:
   - title: "Categories"
-    url: /Categories/
     children:
       - title: "Graphics"
-        url: /Categories/
+        url: /categories/#graphics
       - title: "Computer-Language"
-        children:
-          - title: "C++"
-            url: /Categories/
+        url: /categories/#computer-language
       - title: "CodingTest"
-        children:
-          - title: "HackerRank"
-            url: /Categories/
-          - title: "BaekJoon"
-            url: /Categories/
-          - title: "Programmers"
-            url: /Categories/
+        url: /categories/#codingtest
+
+  - title: "Tags"
+    children:
+      - title: "DX11"
+        url: /tags/#dx11
+      - title: "HackerRank"
+        url: /tags/#hackerrank
