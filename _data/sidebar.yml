@@ -1,0 +1,21 @@
+sidebar-category:
+  - title: "Categories"
+    children:
+      - title: "Graphics"
+        url: /categories/#graphics
+      - title: "DirectX11"
+        url: /categories/#DirectX11
+
+  - title: "Computer Language"
+    children:
+      - title: "C++"
+        url: /categories/#C++
+  
+  - title: "CodingTest"
+    chiledren:
+      - title: "HackerRank"
+        url: /categories/#HackerRank
+      - title: "BaekJoon"
+        url: /categories/#BaekJoon
+      - title: "Programmers"
+        url: /categories/#Programmers

@@ -32,3 +32,11 @@ author:
   name: "ADH"
   bio: "Game Client Developer"
   location: "South Korea"
+
+defaults:
+  - scope:
+      path: ""
+      type: posts
+    values:
+      sidebar:
+        nav: "sidebar-category"

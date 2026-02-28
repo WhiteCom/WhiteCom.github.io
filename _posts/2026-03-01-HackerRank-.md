@@ -3,7 +3,7 @@ layout: single
 title: "HackerRank - Time Conversion"
 date: 2026-02-26
 categories: [CodingTest]
-tags: [C++, HackerRank, Warmup]
+tags: [C++, HackerRank]
 toc: true
 toc_sticky: true
 ---
