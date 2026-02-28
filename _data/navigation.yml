@@ -5,6 +5,8 @@ main:
     url: /projects/
   - title: "About"
     url: /about/
+  - title: "Categories"
+    url: /Categories/
   - title: "Tags"
     url: /tags/
 
@@ -26,6 +28,3 @@ sidebar-nav:
             url: /Categories/
           - title: "Programmers"
             url: /Categories/
-      
-
-  
