@@ -8,6 +8,8 @@ toc: true
 toc_sticky: true
 ---
 
+* Github URL : [My DirectX11 Project](https://github.com/WhiteCom/DirectX11_Project2)
+
 ## 샘플 프로그레스 바 Drawing
 실시간으로 0% -> 100% -> 0% -> 100% 까지 왔다갔다 하는 프로그레스 바 렌더링 구현
 
