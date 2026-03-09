@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "미니엔진 테스트"
+title: "< 미니엔진 테스트 >"
 date: 2026-03-03
 categories: [Graphics]
 tags: [DirectX11]

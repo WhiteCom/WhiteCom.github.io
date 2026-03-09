@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "DirectX Shader 컴파일 관련 이것저것"
+title: "< DirectX Shader 컴파일 관련 이것저것 >"
 date: 2026-03-06
 categories: [Graphics]
 tags: [Shader]

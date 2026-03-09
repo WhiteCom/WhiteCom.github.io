@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "HackerRank - Time Conversion"
+title: "< HackerRank - Time Conversion >"
 date: 2026-03-01
 categories: [CodingTest]
 tags: [C++, HackerRank]
