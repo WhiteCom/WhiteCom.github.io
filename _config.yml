@@ -1,22 +1,15 @@
 title: "ADH - Game Client Developer"
 description: "DirectX / Engine / Graphics / Debugging"
-url: ""
+url: "https://whitecom.github.io"
 baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
-
-plugins:
-  - jekyll-include-cache
-  
 minimal_mistakes_skin: "dark"
-
-collections:
-  projects:
-    output: true
-    permalink: /projects/:path/
 
 markdown: kramdown
 highlighter: rouge
+
+timezone: Asia/Seoul
 
 plugins:
   - jekyll-include-cache
@@ -26,7 +19,16 @@ plugins:
 paginate: 5
 paginate_path: /page:num/
 
-timezone: Asia/Seoul
+enable_copy_code_button: true
+
+search: true
+search_full_content: true
+search_provider: lunr
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
 
 author:
   name: "ADH"
