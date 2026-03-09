@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Graphics API 별 Shader 네이밍 차이 (DirectX vs OpenGL vs Vulkan)"
 date: 2026-03-09
 categories: [Graphics]
