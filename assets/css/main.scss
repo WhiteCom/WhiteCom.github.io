@@ -1,6 +1,9 @@
-.sidebar .nav__items li a:hover {
-    color: #f5b942;
+.sidebar .nav__items li {
     border-bottom: 1px solid #444;
     padding-bottom: 8px;
     margin-bottom: 8px;
+}
+
+.sidebar .nav_items li a:hover {
+    color: #f5b942;
 }
