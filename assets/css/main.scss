@@ -1,6 +1,8 @@
 ---
 ---
 
+@charset "utf-8";
+
 @import "minimal-mistakes";
 
 .sidebar .nav__items li {
@@ -10,5 +12,5 @@
 }
 
 .sidebar .nav_items li a:hover {
-    color: #f5b942;
+    color: #f5b942
 }
