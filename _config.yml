@@ -48,3 +48,10 @@ defaults:
     values:
       sidebar:
         nav: "sidebar-nav"
+
+  - scope:
+      path: ""
+      type: pages
+    values:
+      sidebar:
+        nav: "sidebar-nav"
