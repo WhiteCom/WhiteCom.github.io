@@ -25,6 +25,9 @@ search: true
 search_full_content: true
 search_provider: lunr
 
+sass:
+  style: compressed
+
 collections:
   projects:
     output: true
