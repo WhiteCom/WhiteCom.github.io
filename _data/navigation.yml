@@ -13,13 +13,13 @@ main:
 sidebar-nav:
   - title: "Categories"
     children:
-      - title: "Graphics"
+      - title: "● Graphics"
         url: /categories/graphics/
-      - title: "Computer-Language"
+      - title: "● Computer-Language"
         url: /categories/computer-language/
-      - title: "CodingTest"
+      - title: "● CodingTest"
         url: /categories/codingtest/
-      - title: "Tech-info"
+      - title: "● Tech-info"
         url: /categories/tech-info/
 
   - title: "Tags"
