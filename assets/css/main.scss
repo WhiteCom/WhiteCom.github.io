@@ -1,0 +1,16 @@
+---
+---
+
+@import "minimal-mistakes";
+
+/* ===== Custom CSS ===== */
+
+.sidebar .nav__items li {
+  border-bottom: 1px solid #444;
+  padding-bottom: 8px;
+  margin-bottom: 8px;
+}
+
+.sidebar .nav__items a:hover {
+  color: #f5b942;
+}
