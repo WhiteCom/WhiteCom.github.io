@@ -2,6 +2,8 @@
 layout: single
 title: "About Me"
 permalink: /about/
+sidebar:
+  nav: "sidebar-nav"
 ---
 
 ## 👨‍💻 소개
