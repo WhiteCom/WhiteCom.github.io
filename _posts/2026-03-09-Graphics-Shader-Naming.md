@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-# Graphics API 별 Shader 네이밍 차이 (DirectX vs OpenGL vs Vulkan)
+## Graphics API 별 Shader 네이밍 차이 (DirectX vs OpenGL vs Vulkan)
 
 그래픽 API를 공부하다 보면 같은 역할의 셰이더인데도 **API마다 이름이 조금 다른 경우**를 볼 수 있다.
 
