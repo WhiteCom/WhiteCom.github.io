@@ -5,6 +5,7 @@ baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
+skin: dark
 
 markdown: kramdown
 highlighter: rouge
