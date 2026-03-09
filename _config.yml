@@ -5,10 +5,12 @@ baseurl: ""
 
 remote_theme: "mmistakes/minimal-mistakes"
 minimal_mistakes_skin: "dark"
-skin: dark
 
 markdown: kramdown
 highlighter: rouge
+
+head_scripts:
+  - /assets/css/custom.css
 
 timezone: Asia/Seoul
 
