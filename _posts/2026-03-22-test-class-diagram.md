@@ -1,4 +1,5 @@
 ---
+layout: single
 title: "Mermaid 클래스 다이어그램 테스트"
 date: 2026-03-22
 categories: [dev, blog]
