@@ -40,5 +40,5 @@ classDiagram
 
     Character <|-- Player
     Character <|-- Monster
-    Character <|-- BossMonster
+    Monster <|-- BossMonster
 ```
