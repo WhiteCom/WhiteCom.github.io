@@ -14,8 +14,6 @@ toc_sticky: true
 해당 형식의 마크다운 파일 내에서, UML 다이어그램을 지원하는 것을 확인하였고 샘플로 Mermaid UML 다이어그램을 임의로 만들어 보고 싶었다.
 아래가 결과물이다. 
 
-### 결과물
-
 ```mermaid
 classDiagram
     direction LR
