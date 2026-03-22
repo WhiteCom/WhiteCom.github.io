@@ -16,7 +16,7 @@ toc_sticky: true
 
 ```mermaid
 classDiagram
-    direction LR
+    direction TB
 
     class Character{
         +int hp
@@ -40,5 +40,5 @@ classDiagram
 
     Character <|-- Player
     Character <|-- Monster
-    Character <|-- BossMonster
+    Monster <|-- BossMonster
 ```
