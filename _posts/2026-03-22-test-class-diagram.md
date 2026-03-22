@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Mermaid 클래스 다이어그램 테스트"
+title: "< Mermaid 클래스 다이어그램 테스트 >"
 date: 2026-03-22
 categories: [dev, blog]
 tags: [UML]
@@ -8,7 +8,7 @@ toc: true
 toc_sticky: true
 ---
 
-## <span class="text-orange">< Sample 클래스 다이어그램 (Mermaid UML) ></span>
+## <span class="text-orange">Sample 클래스 다이어그램 (Mermaid UML) </span>
 
 현재 내가 사용하는 github 블로그 테마는 **Minimal-Mistakes** 기반이라 포스팅 파일 형식이 마크다운 형식이다.
 
