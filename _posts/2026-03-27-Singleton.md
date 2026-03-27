@@ -2,7 +2,7 @@
 layout: single
 title: "< Singleton 패턴 >"
 date: 2026-03-27
-categories: [Software Architecture, Design Pattern]
+categories: [Software-Architecture]
 tags: [C++, Design Pattern]
 toc: true
 toc_sticky: true
@@ -91,7 +91,7 @@ public:
 
 	~FileManager()
 	{
-		std::cout << "===== FileManager Destroy =====\n";
+        std::cout << "===== FileManager Destroy =====\n";
 	}
 
 	static FileManager& GetInstance()
